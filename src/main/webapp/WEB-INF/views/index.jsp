@@ -11,7 +11,7 @@
     <title>Index</title>
 </head>
 <body>
-<form action="/home/translate" method="get">
+<form action="/translate" method="get">
     <input type="text" name="keyword">
     <button>Translate</button>
 </form>
